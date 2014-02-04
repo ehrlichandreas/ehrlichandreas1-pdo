@@ -1,0 +1,14 @@
+nbproject/
+nbproject/*
+*.log
+.DS_Store
+.idea/
+.idea/*
+vendor
+vendor/*
+composer.lock
+composer.phar
+phpunit.xml
+
+!src/*
+!tests/*
