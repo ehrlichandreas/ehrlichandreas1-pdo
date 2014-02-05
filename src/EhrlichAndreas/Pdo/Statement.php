@@ -495,3 +495,5 @@ abstract class EhrlichAndreas_Pdo_Statement implements IteratorAggregate
     
     // final public function __sleep() {}
 }
+
+?>
