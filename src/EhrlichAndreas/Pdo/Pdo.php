@@ -80,6 +80,10 @@ class EhrlichAndreas_Pdo_Pdo extends EhrlichAndreas_Pdo_Abstract
                 {
                     $driver = 'mysqli';
                 }
+                else
+                {
+                    $driver = 'mysql';
+                }
                 
                 break;
             
