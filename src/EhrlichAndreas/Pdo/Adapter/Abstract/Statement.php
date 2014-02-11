@@ -1,8 +1,8 @@
 <?php 
 
-require_once 'EhrlichAndreas/Pdo/Abstract.php';
+//require_once 'EhrlichAndreas/Pdo/Abstract.php';
 
-require_once 'EhrlichAndreas/Pdo/Statement.php';
+//require_once 'EhrlichAndreas/Pdo/Statement.php';
 
 /**
  *

@@ -1,9 +1,9 @@
 <?php
 
 
-require_once 'EhrlichAndreas/Pdo/Exception.php';
+//require_once 'EhrlichAndreas/Pdo/Exception.php';
 
-require_once 'EhrlichAndreas/Util/Dsn.php';
+//require_once 'EhrlichAndreas/Util/Dsn.php';
 
 /**
  *

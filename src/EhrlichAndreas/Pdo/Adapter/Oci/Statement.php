@@ -1,12 +1,12 @@
 <?php 
 
-require_once 'EhrlichAndreas/Pdo/Abstract.php';
+//require_once 'EhrlichAndreas/Pdo/Abstract.php';
 
-require_once 'EhrlichAndreas/Pdo/Adapter/Abstract.php';
+//require_once 'EhrlichAndreas/Pdo/Adapter/Abstract.php';
 
-require_once 'EhrlichAndreas/Pdo/Adapter/Abstract/Statement.php';
+//require_once 'EhrlichAndreas/Pdo/Adapter/Abstract/Statement.php';
 
-require_once 'EhrlichAndreas/Pdo/Adapter/Oci/defaults.php';
+//require_once 'EhrlichAndreas/Pdo/Adapter/Oci/defaults.php';
 
 /**
  *

@@ -1,6 +1,6 @@
 <?php 
 
-require_once 'EhrlichAndreas/Pdo/Statement/Iterator.php';
+//require_once 'EhrlichAndreas/Pdo/Statement/Iterator.php';
 
 /**
  *

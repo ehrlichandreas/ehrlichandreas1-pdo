@@ -1,12 +1,12 @@
 <?php 
 
-require_once 'EhrlichAndreas/Pdo/Exception.php';
+//require_once 'EhrlichAndreas/Pdo/Exception.php';
 
-require_once 'EhrlichAndreas/Pdo/Abstract.php';
+//require_once 'EhrlichAndreas/Pdo/Abstract.php';
 
-require_once 'EhrlichAndreas/Pdo/Adapter/Abstract.php';
+//require_once 'EhrlichAndreas/Pdo/Adapter/Abstract.php';
 
-require_once 'EhrlichAndreas/Pdo/Adapter/Mysql/Statement.php';
+//require_once 'EhrlichAndreas/Pdo/Adapter/Mysql/Statement.php';
 
 /**
  *
