@@ -25,6 +25,10 @@
     [
         {
             "type": "git",
+            "url": "https://github.com/ehrlichandreas/composer-php52.git"
+        },
+        {
+            "type": "git",
             "url": "https://github.com/ehrlichandreas/ehrlichandreas1-util.git"
         }
     ],
@@ -32,7 +36,7 @@
     {
         "php":                                  ">=5.1",
 
-        "xrstf/composer-php52": "1.*@dev",
+        "ehrlichandreas/composer-php52":        "dev-master",
         
         "ehrlichandreas/ehrlichandreas1-util":  "0.0.1.0"
     },
@@ -46,6 +50,10 @@
             "xrstf\\Composer52\\Generator::onPostInstallCmd"
         ],
         "post-update-cmd":
+        [
+            "xrstf\\Composer52\\Generator::onPostInstallCmd"
+        ],
+        "post-autoload-dump":
         [
             "xrstf\\Composer52\\Generator::onPostInstallCmd"
         ]
