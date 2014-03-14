@@ -38,7 +38,7 @@
 
         "ehrlichandreas/composer-php52":        "dev-master",
         
-        "ehrlichandreas/ehrlichandreas1-util":  "0.0.1.0"
+        "ehrlichandreas/ehrlichandreas1-util":  "dev-master"
     },
     "require-dev":
     {
