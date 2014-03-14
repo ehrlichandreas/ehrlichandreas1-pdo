@@ -316,4 +316,3 @@ class EhrlichAndreas_Pdo_Adapter_Oci extends EhrlichAndreas_Pdo_Adapter_Abstract
     }
 }
 
-?>

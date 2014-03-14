@@ -305,4 +305,3 @@ if (!defined('OCI_TEMP_BLOB'))
     define('OCI_TEMP_BLOB', 1);
 }
 
-?>

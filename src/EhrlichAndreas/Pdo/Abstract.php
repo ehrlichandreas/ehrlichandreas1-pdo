@@ -198,4 +198,3 @@ class EhrlichAndreas_Pdo_Abstract
     }
 }
 
-?>

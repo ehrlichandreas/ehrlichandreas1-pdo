@@ -143,4 +143,3 @@ class EhrlichAndreas_Pdo_Adapter_Mysql_Statement extends EhrlichAndreas_Pdo_Adap
     }
 }
 
-?>

@@ -361,4 +361,3 @@ class EhrlichAndreas_Pdo_Adapter_Mysqli extends EhrlichAndreas_Pdo_Adapter_Abstr
     }
 }
 
-?>

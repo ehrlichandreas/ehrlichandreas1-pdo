@@ -256,7 +256,7 @@ class EhrlichAndreas_Pdo_Pdo extends EhrlichAndreas_Pdo_Abstract
      *         PDO::exec, wherein a statement that affected 0 rows
      *         results in a call to die:
      *         exec() or die(print_r($db->errorInfo(), true));
-     *         ?>
+     *         
      *         ]]>
      */
     public function exec ($statement)
@@ -611,4 +611,3 @@ class EhrlichAndreas_Pdo_Pdo extends EhrlichAndreas_Pdo_Abstract
     // final public function __sleep () {}
 }
 
-?>

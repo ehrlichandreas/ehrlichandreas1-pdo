@@ -98,4 +98,3 @@ class EhrlichAndreas_Pdo_Adapter_Sqlite_Statement extends EhrlichAndreas_Pdo_Ada
     }
 }
 
-?>

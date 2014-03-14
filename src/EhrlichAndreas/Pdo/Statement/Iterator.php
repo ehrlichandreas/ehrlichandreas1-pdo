@@ -117,4 +117,3 @@ class EhrlichAndreas_Pdo_Statement_Iterator implements Iterator
     }
 }
 
-?>

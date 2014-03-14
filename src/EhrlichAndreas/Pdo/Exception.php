@@ -10,4 +10,3 @@ class EhrlichAndreas_Pdo_Exception extends RuntimeException
     public $errorInfo; // corresponds to PDO::errorInfo()
 }
 
-?>

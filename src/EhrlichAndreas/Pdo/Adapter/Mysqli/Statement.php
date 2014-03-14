@@ -405,4 +405,3 @@ class EhrlichAndreas_Pdo_Adapter_Mysqli_Statement extends EhrlichAndreas_Pdo_Ada
     }
 }
 
-?>

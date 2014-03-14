@@ -209,4 +209,3 @@ class EhrlichAndreas_Pdo_Adapter_Sqlite extends EhrlichAndreas_Pdo_Adapter_Abstr
     }
 }
 
-?>

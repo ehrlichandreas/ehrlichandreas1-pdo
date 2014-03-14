@@ -741,4 +741,3 @@ abstract class EhrlichAndreas_Pdo_Adapter_Abstract
     }
 }
 
-?>
