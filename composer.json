@@ -36,7 +36,7 @@
     {
         "php":                                  ">=5.1",
 
-        "ehrlichandreas/composer-php52":        "dev-master",
+        "ehrlichandreas/composer-php52":        "*",
         
         "ehrlichandreas/ehrlichandreas1-util":  "dev-master"
     },
