@@ -185,7 +185,7 @@ class EhrlichAndreas_Pdo_Abstract
                     throw new EhrlichAndreas_Pdo_Exception('invalid data source name');
                 }
                 
-                return EhrlichAndreas_Db_Dsn::parseDsn($dsn);
+                return EhrlichAndreas_Util_Dsn::parseDsn($dsn);
                 
                 break;
             
