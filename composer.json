@@ -1,7 +1,7 @@
 {
     "name":         "ehrlichandreas/ehrlichandreas1-pdo",
     "description":  "Zend Framework like PDO module",
-    "type":         "util",
+    "type":         "library",
     "keywords": 
     [
     ],
@@ -29,6 +29,7 @@
         "php":                                  ">=5.1",
         
         "ehrlichandreas/composer-php52":        "*",
+        
         "ehrlichandreas/ehrlichandreas1-util":  "dev-master"
     },
     "require-dev":
