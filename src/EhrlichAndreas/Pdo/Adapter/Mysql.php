@@ -530,7 +530,7 @@ class EhrlichAndreas_Pdo_Adapter_Mysql extends EhrlichAndreas_Pdo_Adapter_Abstra
         
         if (strtolower($host) == 'localhost' && empty($socket))
         {
-            $host = '127.0.0.1';
+            //$host = '127.0.0.1';
         }
         
         if ($socket)

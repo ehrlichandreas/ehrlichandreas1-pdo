@@ -338,7 +338,7 @@ class EhrlichAndreas_Pdo_Adapter_Mysqli extends EhrlichAndreas_Pdo_Adapter_Abstr
         
         if (strtolower($host) == 'localhost' && empty($socket))
         {
-            $host = '127.0.0.1';
+            //$host = '127.0.0.1';
         }
         
         if (! @mysqli_real_connect($this->link, $host, $username, $password, $dbname, $port, $socket))
